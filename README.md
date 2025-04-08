@@ -43,7 +43,7 @@ followed these step:
 
     uvicorn main:app --reload
 	
-	-	You can test if backend is running by enter this URL`http://localhost:8000`
+	-	You can test if backend is running by enter this URL`http://localhost:8000/docs`
 
 
 
