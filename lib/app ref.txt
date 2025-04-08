@@ -1,0 +1,4 @@
+-use various widget and maybe some package
+-API calling (CRUD)
+-if Firebase stream it 
+-2 ++ pages

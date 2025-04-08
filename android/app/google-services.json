@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "748878476329",
+    "project_id": "tinpic-32906",
+    "storage_bucket": "tinpic-32906.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748878476329:android:b364f554382f8de38f1838",
+        "android_client_info": {
+          "package_name": "com.example.tinpic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYuQO_fEc4Ct-u52P8eYH-MSMRJSUhAMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
