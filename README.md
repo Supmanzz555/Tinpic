@@ -1,3 +1,4 @@
+
 # Tinpic, your unusual photo managing App
 Tired of going through your phone's pictures and selecting each one individually to remove them? Or maybe you're looking for more entertaining ways to do it? GOOD NEWS! This app is designed for you!
 
@@ -43,8 +44,24 @@ followed these step:
 
     uvicorn main:app --reload
 	
-	-	You can test if backend is running by enter this URL`http://localhost:8000/docs`
+	-	You can test if backend is running by enter this URL
+	http://localhost:8000/docs
 
+
+## Docker (backend)
+followed these step:
+### 1.clone this repo
+
+	git clone https://github.com/Supmanzz555/Tinpic.git
+	cd Tinpic
+	cd FASTAPI_mongo/
+
+### 2. run docker command
+
+    docker-compose up --build
+
+- you can testing it out by enter this URL
+	 http://localhost:8000/docs
 
 
 # 🧑‍🤝‍🧑 Contributing
