@@ -33,9 +33,9 @@ followed these step:
 ### 2. Settings up backend
 -	**Install Dependencies**:
 
+	~~~
     cd FastAPi_mongo
     pip install -r requirements.txt
-
 -	**Start MongoDB**:
 	-	Make sure you have **MongoDB** installed and running on your machine. If you don’t have it, [install MongoDB](https://www.mongodb.com/try/download/community) and start it.
 
